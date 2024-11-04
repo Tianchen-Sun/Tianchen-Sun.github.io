@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quadrotor Traversing the Moving Gate
-description: Improve the work "Learning Agile Flight Maneuvers: Deep SE(3) Motion Planning and  Control for Quadrotors"
+description: Improve the work "Learning Agile Flight Maneuvers Deep SE(3) Motion Planning and  Control for Quadrotors"
 img: assets/gif/gate fly through moving gate.gif 
 importance: 3
 category: research
