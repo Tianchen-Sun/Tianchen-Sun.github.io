@@ -5,7 +5,7 @@ description: Hardware demo, with PX4 FCU and Vicon.
 img: assets/gif/vertical.gif 
 importance: 1
 category: research
-related_publications: true
+# related_publications: true
 ---
 
 
