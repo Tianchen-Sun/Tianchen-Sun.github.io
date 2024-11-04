@@ -2,10 +2,10 @@
 layout: page
 title: project 2
 description: a project with a background image and giscus comments
-img: assets/gif/vertical.gif
+img: assets/gif/working_as_inverted_pendulum.gif 
 importance: 2
 category: research
-giscus_comments: true
+# giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
@@ -23,7 +23,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/gif/flip.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/gif/not_working.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

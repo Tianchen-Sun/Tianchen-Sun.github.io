@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: with background image
-img: assets/gif/gate fly through moving gate.gif #assets/img/12.jpg
+img: assets/gif/vertical.gif #assets/img/12.jpg
 importance: 1
 category: research
 related_publications: true
@@ -23,7 +23,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/gif/flip.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
