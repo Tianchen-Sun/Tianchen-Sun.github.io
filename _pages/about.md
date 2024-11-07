@@ -26,4 +26,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 Hi, I am Tianchen Sun. I am a MSc Robotics student at [National University of Singapore](https://nus.edu.sg/). Currently, I am working on **learning based Model Predictive Control** for planning and control, under Professor [Lin Zhao](https://sites.google.com/view/lzhao)'s and Doctor [Feng Lin](https://scholar.google.com/citations?user=OpF6OQ8AAAAJ&hl=en&inst=3212728378801010220&oi=ao)'s (NUS Lecturer) supervision. 
 Previously, I obtained my BEng in Mechatronics and Robotic Systems from the University of Liverpool and Xi'an Jiaotong-Liverpool University (XJTLU) in 2022, advised by Prof. [Yuqing Chen](https://scholar.google.de/citations?user=T4fF7coAAAAJ&hl=en&inst=3212728378801010220). This is a minimum version of my page.
 
-<a href='https://clustrmaps.com/site/1c22s'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=OY4qRtSOZQmOmKdaNZbMTeF6vdjI0QC6hvs6WZBV4NQ&co=e5c893'/></a>
+
