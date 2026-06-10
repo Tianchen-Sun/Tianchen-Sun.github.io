@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Error-state Kalman filter with PnP and Omni-Cameras VIO
+title: Error-state Kalman filter with Omni-Cameras PnP and VIO
 description:
 img: assets/img/kf_vio.png
 importance: 10
