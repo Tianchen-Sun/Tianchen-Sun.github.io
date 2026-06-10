@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my cool projects.
 nav: true
 nav_order: 3
-display_categories: [research, make_hand_dirty] #[work, fun]
+display_categories: [research, get_hand_dirty] #[work, fun]
 horizontal: false
 ---
 <!-- pages/projects.md -->
